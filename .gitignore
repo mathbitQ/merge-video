@@ -1,2 +1,5 @@
 # Ignore the bin file
-./bin
+./bin/*
+
+# Ignore the obj file
+./obj/*
